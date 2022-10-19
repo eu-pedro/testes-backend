@@ -1,5 +1,7 @@
 <?php
 
+
+
 class Slug{
 
     private $texto;
